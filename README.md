@@ -46,7 +46,7 @@ Replace with your actual dashboard image
 
 ## 👤 Author
 
-*[Your Name]*  
+*[Soumi Pal]*  
 Student | Power BI Beginner | Frontend Developer  
-📧 Contact: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]
+📧 Contact: [soumiisc2020@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/soumi-pal-17164a256]
