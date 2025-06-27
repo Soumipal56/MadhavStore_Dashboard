@@ -40,7 +40,7 @@ The goal of this project was to practice building a professional dashboard in Po
 
 ## 📸 Preview
 
-![Dashboard Screenshot](your-screenshot.png)  
+![Dashboard Screenshot]([your-screenshot.png](https://github.com/Soumipal56/MadhavStore_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png))  
 Replace with your actual dashboard image
 
 
